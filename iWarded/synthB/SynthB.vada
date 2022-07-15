@@ -38,19 +38,19 @@
 
 @output("out_1").
 @input("edb_8").
-@bind("edb_8","csv","generatedPrograms/SynthB","edb_8_csv.csv").
+@bind("edb_8","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_8_csv.csv").
 @mapping("edb_8",0,"arg_0","int").
 @mapping("edb_8",1,"arg_1","int").
 @mapping("edb_8",2,"arg_2","int").
 @mapping("edb_8",3,"arg_3","int").
 @mapping("edb_8",4,"arg_4","int").
 @input("edb_27").
-@bind("edb_27","csv","generatedPrograms/SynthB","edb_27_csv.csv").
+@bind("edb_27","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_27_csv.csv").
 @mapping("edb_27",0,"arg_0","int").
 @mapping("edb_27",1,"arg_1","int").
 @mapping("edb_27",2,"arg_2","int").
 @input("edb_24").
-@bind("edb_24","csv","generatedPrograms/SynthB","edb_24_csv.csv").
+@bind("edb_24","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_24_csv.csv").
 @mapping("edb_24",0,"arg_0","int").
 @mapping("edb_24",1,"arg_1","int").
 @mapping("edb_24",2,"arg_2","int").
@@ -58,7 +58,7 @@
 @mapping("edb_24",4,"arg_4","int").
 @mapping("edb_24",5,"arg_5","int").
 @input("edb_18").
-@bind("edb_18","csv","generatedPrograms/SynthB","edb_18_csv.csv").
+@bind("edb_18","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_18_csv.csv").
 @mapping("edb_18",0,"arg_0","int").
 @mapping("edb_18",1,"arg_1","int").
 @mapping("edb_18",2,"arg_2","int").
@@ -66,21 +66,21 @@
 @mapping("edb_18",4,"arg_4","int").
 @mapping("edb_18",5,"arg_5","int").
 @input("edb_15").
-@bind("edb_15","csv","generatedPrograms/SynthB","edb_15_csv.csv").
+@bind("edb_15","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_15_csv.csv").
 @mapping("edb_15",0,"arg_0","int").
 @mapping("edb_15",1,"arg_1","int").
 @mapping("edb_15",2,"arg_2","int").
 @mapping("edb_15",3,"arg_3","int").
 @mapping("edb_15",4,"arg_4","int").
 @input("edb_11").
-@bind("edb_11","csv","generatedPrograms/SynthB","edb_11_csv.csv").
+@bind("edb_11","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_11_csv.csv").
 @mapping("edb_11",0,"arg_0","int").
 @input("edb_16").
-@bind("edb_16","csv","generatedPrograms/SynthB","edb_16_csv.csv").
+@bind("edb_16","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_16_csv.csv").
 @mapping("edb_16",0,"arg_0","int").
 @mapping("edb_16",1,"arg_1","int").
 @input("edb_25").
-@bind("edb_25","csv","generatedPrograms/SynthB","edb_25_csv.csv").
+@bind("edb_25","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_25_csv.csv").
 @mapping("edb_25",0,"arg_0","int").
 @mapping("edb_25",1,"arg_1","int").
 @mapping("edb_25",2,"arg_2","int").
@@ -88,24 +88,24 @@
 @mapping("edb_25",4,"arg_4","int").
 @mapping("edb_25",5,"arg_5","int").
 @input("edb_4").
-@bind("edb_4","csv","generatedPrograms/SynthB","edb_4_csv.csv").
+@bind("edb_4","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_4_csv.csv").
 @mapping("edb_4",0,"arg_0","int").
 @mapping("edb_4",1,"arg_1","int").
 @mapping("edb_4",2,"arg_2","int").
 @input("edb_26").
-@bind("edb_26","csv","generatedPrograms/SynthB","edb_26_csv.csv").
+@bind("edb_26","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_26_csv.csv").
 @mapping("edb_26",0,"arg_0","int").
 @mapping("edb_26",1,"arg_1","int").
 @mapping("edb_26",2,"arg_2","int").
 @mapping("edb_26",3,"arg_3","int").
 @input("edb_6").
-@bind("edb_6","csv","generatedPrograms/SynthB","edb_6_csv.csv").
+@bind("edb_6","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_6_csv.csv").
 @mapping("edb_6",0,"arg_0","int").
 @mapping("edb_6",1,"arg_1","int").
 @mapping("edb_6",2,"arg_2","int").
 @mapping("edb_6",3,"arg_3","int").
 @input("edb_22").
-@bind("edb_22","csv","generatedPrograms/SynthB","edb_22_csv.csv").
+@bind("edb_22","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_22_csv.csv").
 @mapping("edb_22",0,"arg_0","int").
 @mapping("edb_22",1,"arg_1","int").
 @mapping("edb_22",2,"arg_2","int").
@@ -115,23 +115,23 @@
 @mapping("edb_22",6,"arg_6","int").
 @mapping("edb_22",7,"arg_7","int").
 @input("edb_20").
-@bind("edb_20","csv","generatedPrograms/SynthB","edb_20_csv.csv").
+@bind("edb_20","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_20_csv.csv").
 @mapping("edb_20",0,"arg_0","int").
 @mapping("edb_20",1,"arg_1","int").
 @mapping("edb_20",2,"arg_2","int").
 @mapping("edb_20",3,"arg_3","int").
 @input("edb_28").
-@bind("edb_28","csv","generatedPrograms/SynthB","edb_28_csv.csv").
+@bind("edb_28","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_28_csv.csv").
 @mapping("edb_28",0,"arg_0","int").
 @mapping("edb_28",1,"arg_1","int").
 @mapping("edb_28",2,"arg_2","int").
 @input("edb_1").
-@bind("edb_1","csv","generatedPrograms/SynthB","edb_1_csv.csv").
+@bind("edb_1","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_1_csv.csv").
 @mapping("edb_1",0,"arg_0","int").
 @mapping("edb_1",1,"arg_1","int").
 @mapping("edb_1",2,"arg_2","int").
 @input("edb_30").
-@bind("edb_30","csv","generatedPrograms/SynthB","edb_30_csv.csv").
+@bind("edb_30","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_30_csv.csv").
 @mapping("edb_30",0,"arg_0","int").
 @mapping("edb_30",1,"arg_1","int").
 @mapping("edb_30",2,"arg_2","int").
@@ -141,7 +141,7 @@
 @mapping("edb_30",6,"arg_6","int").
 @mapping("edb_30",7,"arg_7","int").
 @input("edb_10").
-@bind("edb_10","csv","generatedPrograms/SynthB","edb_10_csv.csv").
+@bind("edb_10","csv","/vadalog/disk/egd/iWarded/scenarios/synthB/data/input","edb_10_csv.csv").
 @mapping("edb_10",0,"arg_0","int").
 @mapping("edb_10",1,"arg_1","int").
 @mapping("edb_10",2,"arg_2","int").
@@ -149,105 +149,144 @@
 @mapping("edb_10",4,"arg_4","int").
 
 
+@output("idb_egd_21").
 idb_egd_21(HARMLESS_1,HARMFUL_39,TAINTED_21,TAINTED_211) :- idb_21(HARMLESS_1,HARMFUL_39).
 TAINTED_21 = TAINTED_211 :- idb_egd_21(HARMLESS_1,HARMFUL_39,TAINTED_21,TAINTED_211).
 
+@output("idb_egd_22").
 idb_egd_22(HARMLESS_1,HARMFUL_40,HARMFUL_41,HARMFUL_42,HARMFUL_43,TAINTED_22, TAINTED_222) :- idb_22(HARMLESS_1,HARMFUL_40,HARMFUL_41,HARMFUL_42,HARMFUL_43).
 TAINTED_22 = TAINTED_222 :- idb_egd_22(HARMLESS_1,HARMFUL_40,HARMFUL_41,HARMFUL_42,HARMFUL_43,TAINTED_22, TAINTED_222).
 
+@output("idb_egd_23").
 idb_egd_23(HARMLESS_1,HARMFUL_44,HARMFUL_45,HARMFUL_46,TAINTED_23,TAINTED_233) :- idb_23(HARMLESS_1,HARMFUL_44,HARMFUL_45,HARMFUL_46).
 TAINTED_23 = TAINTED_233 :- idb_egd_23(HARMLESS_1,HARMFUL_44,HARMFUL_45,HARMFUL_46,TAINTED_23,TAINTED_233).
 
+@output("idb_egd_24").
 idb_egd_24(HARMLESS_1,HARMFUL_47,TAINTED_24,TAINTED_244) :- idb_24(HARMLESS_1,HARMFUL_47).
 TAINTED_24 = TAINTED_244 :- idb_egd_24(HARMLESS_1,HARMFUL_47,TAINTED_24,TAINTED_244).
 
+@output("idb_egd_25").
 idb_egd_25(HARMLESS_1,HARMFUL_48,HARMFUL_49,TAINTED_25,TAINTED_255) :- idb_25(HARMLESS_1,HARMFUL_48,HARMFUL_49).
 TAINTED_25 = TAINTED_255 :- idb_egd_25(HARMLESS_1,HARMFUL_48,HARMFUL_49,TAINTED_25,TAINTED_255).
 
+@output("idb_egd_26").
 idb_egd_26(HARMLESS_1,HARMFUL_50,HARMFUL_51,HARMFUL_52,HARMFUL_53,TAINTED_26,TAINTED_266) :- idb_26(HARMLESS_1,HARMFUL_50,HARMFUL_51,HARMFUL_52,HARMFUL_53).
 TAINTED_26 = TAINTED_266 :- idb_egd_26(HARMLESS_1,HARMFUL_50,HARMFUL_51,HARMFUL_52,HARMFUL_53,TAINTED_26,TAINTED_266).
 
+@output("idb_egd_27").
 idb_egd_27(HARMLESS_1,HARMFUL_54,HARMFUL_55,TAINTED_27,TAINTED_277) :- idb_27(HARMLESS_1,HARMFUL_54,HARMFUL_55).
 TAINTED_27 = TAINTED_277 :- idb_egd_27(HARMLESS_1,HARMFUL_54,HARMFUL_55,TAINTED_27,TAINTED_277).
 
+@output("idb_egd_28").
 idb_egd_28(HARMLESS_1,HARMFUL_56,HARMFUL_57,TAINTED_28,TAINTED_288) :- idb_28(HARMLESS_1,HARMFUL_56,HARMFUL_57).
 TAINTED_28 = TAINTED_288 :- idb_egd_28(HARMLESS_1,HARMFUL_56,HARMFUL_57,TAINTED_28,TAINTED_288).
 
+@output("idb_egd_29").
 idb_egd_29(HARMLESS_1,HARMFUL_58,HARMFUL_59,HARMFUL_60,HARMFUL_61,HARMFUL_62,TAINTED_29,TAINTED_299) :- idb_29(HARMLESS_1,HARMFUL_58,HARMFUL_59,HARMFUL_60,HARMFUL_61,HARMFUL_62).
 TAINTED_29 = TAINTED_299 :- idb_egd_29(HARMLESS_1,HARMFUL_58,HARMFUL_59,HARMFUL_60,HARMFUL_61,HARMFUL_62,TAINTED_29,TAINTED_299).
 
+@output("idb_egd_30").
 idb_egd_30(HARMLESS_1,HARMFUL_63,TAINTED_30,TAINTED_300) :- idb_30(HARMLESS_1,HARMFUL_63).
 TAINTED_30 = TAINTED_300 :- idb_egd_30(HARMLESS_1,HARMFUL_63,TAINTED_30,TAINTED_300).
 
+@output("idb_egd_31").
 idb_egd_31(HARMLESS_1,HARMFUL_64,HARMFUL_65,HARMFUL_66,TAINTED_31,TAINTED_311) :- idb_31(HARMLESS_1,HARMFUL_64,HARMFUL_65,HARMFUL_66).
 TAINTED_31 = TAINTED_311 :- idb_egd_31(HARMLESS_1,HARMFUL_64,HARMFUL_65,HARMFUL_66,TAINTED_31,TAINTED_311).
 
+@output("idb_egd_32").
 idb_egd_32(HARMLESS_1,HARMFUL_67,HARMFUL_68,TAINTED_32,TAINTED_322) :- idb_32(HARMLESS_1,HARMFUL_67,HARMFUL_68).
 TAINTED_32 = TAINTED_322 :- idb_egd_32(HARMLESS_1,HARMFUL_67,HARMFUL_68,TAINTED_32,TAINTED_322).
 
+@output("idb_egd_33").
 idb_egd_33(HARMLESS_1,HARMFUL_69,TAINTED_33,TAINTED_333) :- idb_33(HARMLESS_1,HARMFUL_69).
 TAINTED_33 = TAINTED_333 :- idb_egd_33(HARMLESS_1,HARMFUL_69,TAINTED_33,TAINTED_333).
 
+@output("idb_egd_34").
 idb_egd_34(HARMLESS_1,HARMFUL_70,HARMFUL_71,HARMFUL_72,HARMFUL_73,TAINTED_34,TAINTED_344) :- idb_34(HARMLESS_1,HARMFUL_70,HARMFUL_71,HARMFUL_72,HARMFUL_73).
 TAINTED_34 = TAINTED_344 :- idb_egd_34(HARMLESS_1,HARMFUL_70,HARMFUL_71,HARMFUL_72,HARMFUL_73,TAINTED_34,TAINTED_344).
 
+@output("idb_egd_35").
 idb_egd_35(HARMLESS_1,HARMFUL_74,HARMFUL_75,HARMFUL_76,HARMFUL_77,HARMFUL_78,TAINTED_35,TAINTED_355) :- idb_35(HARMLESS_1,HARMFUL_74,HARMFUL_75,HARMFUL_76,HARMFUL_77,HARMFUL_78).
 TAINTED_35 = TAINTED_355 :- idb_egd_35(HARMLESS_1,HARMFUL_74,HARMFUL_75,HARMFUL_76,HARMFUL_77,HARMFUL_78,TAINTED_35,TAINTED_355).
 
+@output("idb_egd_36").
 idb_egd_36(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_36,TAINTED_366) :- idb_36(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4).
 TAINTED_36 = TAINTED_366 :- idb_egd_36(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_36,TAINTED_366).
 
+@output("idb_egd_37").
 idb_egd_37(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_37,TAINTED_377) :- idb_37(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4).
 TAINTED_37 = TAINTED_377 :- idb_egd_37(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_37,TAINTED_377).
 
+@output("idb_egd_38").
 idb_egd_38(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_38,TAINTED_388) :- idb_38(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4).
 TAINTED_38 = TAINTED_388 :- idb_egd_38(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_38,TAINTED_388).
 
+@output("idb_egd_39").
 idb_egd_39(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_39,TAINTED_399) :- idb_39(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4).
 TAINTED_39 = TAINTED_399 :- idb_egd_39(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_39,TAINTED_399).
 
+@output("idb_egd_40").
 idb_egd_40(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_40,TAINTED_400) :- idb_40(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4).
 TAINTED_40 = TAINTED_400 :- idb_egd_40(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_40,TAINTED_400).
 
 
 
-
+@output("idb_egd_1").
+@output("idb_egd_2").
 idb_egd_1(HARMLESS_1,HARMLESS_1,HARMLESS_1,HARMLESS_1,HARMLESS_1,TAINTED_1) :- idb_1(HARMLESS_1,HARMLESS_1,HARMLESS_1,HARMLESS_1,HARMLESS_1).
 idb_egd_2(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_2) :- idb_2(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4).
 TAINTED_1 = TAINTED_2 :- idb_egd_1(HARMLESS_1,HARMLESS_1,HARMLESS_1,HARMLESS_1,HARMLESS_1,TAINTED_1),idb_egd_2(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_2).
 
+@output("idb_egd_3").
+@output("idb_egd_4").
 idb_egd_3(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_3) :- idb_3(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4).
 idb_egd_4(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_4) :- idb_4(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4).
 TAINTED_3 = TAINTED_4 :- idb_egd_3(HARMLESS_1,HARMFUL_1N,HARMFUL_2N,HARMFUL_3N,HARMFUL_4N,TAINTED_3), idb_egd_4(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_4).
 
+@output("idb_egd_5").
+@output("idb_egd_6").
 idb_egd_5(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_5) :- idb_5(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4).
 idb_egd_6(HARMLESS_1,HARMFUL_5,HARMFUL_6,TAINTED_6) :- idb_6(HARMLESS_1,HARMFUL_5,HARMFUL_6).
 TAINTED_5 = TAINTED_6 :- idb_egd_5(HARMLESS_1,HARMFUL_1,HARMFUL_2,HARMFUL_3,HARMFUL_4,TAINTED_5), idb_egd_6(HARMLESS_1,HARMFUL_5,HARMFUL_6,TAINTED_6).
 
+@output("idb_egd_7").
+@output("idb_egd_8").
 idb_egd_7(HARMLESS_1,TAINTED_7) :- idb_7(HARMLESS_1).
 idb_egd_8(HARMLESS_1,HARMFUL_7,TAINTED_8) :- idb_8(HARMLESS_1,HARMFUL_7).
 TAINTED_7 = TAINTED_8 :- idb_egd_7(HARMLESS_1,TAINTED_7), idb_egd_8(HARMLESS_1,HARMFUL_7,TAINTED_8).
 
+@output("idb_egd_9").
+@output("idb_egd_10").
 idb_egd_9(HARMLESS_1,HARMFUL_8,HARMFUL_9,HARMFUL_10,HARMFUL_11,HARMFUL_12,TAINTED_9) :- idb_9(HARMLESS_1,HARMFUL_8,HARMFUL_9,HARMFUL_10,HARMFUL_11,HARMFUL_12).
 idb_egd_10(HARMLESS_1,HARMFUL_13,HARMFUL_14,HARMFUL_15,HARMFUL_16,TAINTED_10) :- idb_10(HARMLESS_1,HARMFUL_13,HARMFUL_14,HARMFUL_15,HARMFUL_16).
 TAINTED_9 = TAINTED_10 :- idb_egd_9(HARMLESS_1,HARMFUL_8,HARMFUL_9,HARMFUL_10,HARMFUL_11,HARMFUL_12,TAINTED_9), idb_egd_10(HARMLESS_1,HARMFUL_13,HARMFUL_14,HARMFUL_15,HARMFUL_16,TAINTED_10).
 
+@output("idb_egd_11").
+@output("idb_egd_12").
 idb_egd_11(HARMLESS_1,HARMFUL_17,HARMFUL_18,HARMFUL_19,TAINTED_11) :- idb_11(HARMLESS_1,HARMFUL_17,HARMFUL_18,HARMFUL_19).
 idb_egd_12(HARMLESS_1,HARMFUL_20,HARMFUL_21,TAINTED_12) :- idb_12(HARMLESS_1,HARMFUL_20,HARMFUL_21).
 TAINTED_11 = TAINTED_12 :- idb_egd_11(HARMLESS_1,HARMFUL_17,HARMFUL_18,HARMFUL_19,TAINTED_11), idb_egd_12(HARMLESS_1,HARMFUL_20,HARMFUL_21,TAINTED_12).
 
+@output("idb_egd_13").
+@output("idb_egd_14").
 idb_egd_13(HARMLESS_1,HARMFUL_22,TAINTED_13) :- idb_13(HARMLESS_1,HARMFUL_22).
 idb_egd_14(HARMLESS_1,HARMFUL_23,HARMFUL_24,HARMFUL_25,TAINTED_14) :- idb_14(HARMLESS_1,HARMFUL_23,HARMFUL_24,HARMFUL_25).
 TAINTED_13 = TAINTED_14 :- idb_egd_13(HARMLESS_1,HARMFUL_22,TAINTED_13), idb_egd_14(HARMLESS_1,HARMFUL_23,HARMFUL_24,HARMFUL_25,TAINTED_14).
 
+@output("idb_egd_15").
+@output("idb_egd_16").
 idb_egd_15(HARMLESS_1,HARMFUL_26,TAINTED_15) :- idb_15(HARMLESS_1,HARMFUL_26).
 idb_egd_16(HARMLESS_1,HARMFUL_27,TAINTED_16) :- idb_16(HARMLESS_1,HARMFUL_27).
 TAINTED_15 = TAINTED_16 :- idb_egd_15(HARMLESS_1,HARMFUL_26,TAINTED_15), idb_egd_16(HARMLESS_1,HARMFUL_27,TAINTED_16).
 
+@output("idb_egd_17").
+@output("idb_egd_18").
 idb_egd_17(HARMLESS_1,HARMFUL_28,HARMFUL_29,HARMFUL_30,HARMFUL_31,TAINTED_17) :- idb_17(HARMLESS_1,HARMFUL_28,HARMFUL_29,HARMFUL_30,HARMFUL_31).
 idb_egd_18(HARMLESS_1,HARMFUL_32,HARMFUL_33,TAINTED_18) :- idb_18(HARMLESS_1,HARMFUL_32,HARMFUL_33).
 TAINTED_17 = TAINTED_18 :- idb_egd_17(HARMLESS_1,HARMFUL_28,HARMFUL_29,HARMFUL_30,HARMFUL_31,TAINTED_17), idb_egd_18(HARMLESS_1,HARMFUL_32,HARMFUL_33,TAINTED_18).
 
+@output("idb_egd_19").
+@output("idb_egd_20").
 idb_egd_19(HARMLESS_1,HARMFUL_34,HARMFUL_35,HARMFUL_36,TAINTED_19) :- idb_19(HARMLESS_1,HARMFUL_34,HARMFUL_35,HARMFUL_36).
 idb_egd_20(HARMLESS_1,HARMFUL_37,HARMFUL_38,TAINTED_20) :- idb_20(HARMLESS_1,HARMFUL_37,HARMFUL_38).
 TAINTED_19 = TAINTED_20 :- idb_egd_19(HARMLESS_1,HARMFUL_34,HARMFUL_35,HARMFUL_36,TAINTED_19), idb_egd_20(HARMLESS_1,HARMFUL_37,HARMFUL_38,TAINTED_20).
